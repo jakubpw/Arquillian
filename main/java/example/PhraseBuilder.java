@@ -16,5 +16,6 @@ public class PhraseBuilder {
     public void initialize() {
         templates = new HashMap<String, String>();
         templates.put("hello", "Hello, {0}!");
+        //coment
     }
 }
